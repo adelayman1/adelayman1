@@ -4,7 +4,7 @@
 
 **`Android Software Engineer`**
 
-I'm Android Software Engineer,Working hard to make software better ⚡ I'm specialize in providing high quality native android solutions. Helping companies build complex Mobile applications that serve users around the world with kotlin and java and modern technologies. Creating and developing applications that are not only beautiful, but pleasant to use and really problem-solving. Always writing not just maintainable and scalable software, but also the readable code that will make the scalability and maintainability possible.I interested in writing code with the best practices and software design principles and architectures.
+I am an Android Software Engineer dedicated to improving software quality. I specialize in providing high-quality native Android solutions, helping companies build complex mobile applications that serve users globally using Kotlin, Java, and modern technologies. I create and develop applications that are not only aesthetically pleasing but also user-friendly and effective in solving real problems. I consistently write maintainable and scalable software, ensuring that the code is readable to facilitate scalability and maintainability. I am passionate about adhering to best practices in coding and software design principles and architectures.
 
 <p align="left">
       <a href="mailto:adelayman0000@gmail.com">
@@ -18,7 +18,7 @@ I'm Android Software Engineer,Working hard to make software better ⚡ I'm speci
    </p>
 <h4 align="left"></h4>
 
-- 🔭 I’m currently working on **develop FaceTime API with Ktor**
+- 🔭 I’m currently working on **FaceTimeClone-KMP**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/adel-ayman/](https://www.linkedin.com/in/adel-ayman/)
 
